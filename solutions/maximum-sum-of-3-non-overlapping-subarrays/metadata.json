@@ -1,0 +1,9 @@
+{
+    "name": "Maximum Sum Of 3 Non Overlapping Subarrays",
+    "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
+    "author": "Shuby Mao",
+    "date": "2021-12-07T14:48:36.397299",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "notes": ""
+}

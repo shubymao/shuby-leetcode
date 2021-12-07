@@ -1,0 +1,9 @@
+{
+    "name": "Two Sum",
+    "link": "https://leetcode.com/problems/two-sum",
+    "author": "Shuby Mao",
+    "date": "2021-12-07T14:47:58.921224",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "notes": "Simple Solutions"
+}
