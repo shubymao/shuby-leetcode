@@ -1,0 +1,9 @@
+{
+    "name": "Valid Tic Tac Toe State",
+    "link": "https://leetcode.com/problems/valid-tic-tac-toe-state",
+    "author": "Shuby Mao",
+    "date": "2021-12-08T12:05:43.897154",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "notes": ""
+}
