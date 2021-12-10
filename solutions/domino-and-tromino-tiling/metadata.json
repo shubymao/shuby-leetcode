@@ -1,0 +1,9 @@
+{
+    "name": "Domino And Tromino Tiling",
+    "link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+    "author": "Shuby Mao",
+    "date": "2021-12-09T20:22:23.897345",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "notes": "DP"
+}
