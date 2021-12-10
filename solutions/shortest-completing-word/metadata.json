@@ -1,0 +1,9 @@
+{
+    "name": "Shortest Completing Word",
+    "link": "https://leetcode.com/problems/shortest-completing-word",
+    "author": "Shuby Mao",
+    "date": "2021-12-09T20:47:55.076543",
+    "time_complexity": "O(n+m*l)",
+    "space_complexity": "O(1)",
+    "notes": ""
+}
