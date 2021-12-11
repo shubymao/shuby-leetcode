@@ -1,0 +1,9 @@
+{
+    "name": "To Lower Case",
+    "link": "https://leetcode.com/problems/to-lower-case",
+    "author": "Shuby Mao",
+    "date": "2021-12-11T16:33:13.720990",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "notes": ""
+}
