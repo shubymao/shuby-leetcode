@@ -1,0 +1,9 @@
+{
+    "name": "Loud And Rich",
+    "link": "https://leetcode.com/problems/loud-and-rich",
+    "author": "Shuby Mao",
+    "date": "2021-12-14T14:24:14.327557",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "notes": "dp, dfs"
+}
