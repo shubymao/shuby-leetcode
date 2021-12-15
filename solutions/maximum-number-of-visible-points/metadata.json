@@ -1,0 +1,9 @@
+{
+    "name": "Maximum Number Of Visible Points",
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "author": "Shuby Mao",
+    "date": "2021-12-15T11:02:36.294971",
+    "time_complexity": "O(nlogn)",
+    "space_complexity": "O(n)",
+    "notes": "sliding window, 2d coordinates"
+}
