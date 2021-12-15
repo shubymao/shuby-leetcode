@@ -1,0 +1,9 @@
+{
+    "name": "Insertion Sort List",
+    "link": "https://leetcode.com/problems/insertion-sort-list",
+    "author": "Shuby Mao",
+    "date": "2021-12-14T17:29:03.908530",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(1)",
+    "notes": "iterative"
+}
