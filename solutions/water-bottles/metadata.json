@@ -1,0 +1,9 @@
+{
+    "name": "Water Bottles",
+    "link": "https://leetcode.com/problems/water-bottles",
+    "author": "Shuby Mao",
+    "date": "2021-12-16T12:06:22.611207",
+    "time_complexity": "O(logn)",
+    "space_complexity": "O(1)",
+    "notes": ""
+}
