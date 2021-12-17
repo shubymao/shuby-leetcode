@@ -1,0 +1,9 @@
+{
+    "name": "Maximal Square",
+    "link": "https://leetcode.com/problems/maximal-square",
+    "author": "Shuby Mao",
+    "date": "2021-12-16T17:31:10.427374",
+    "time_complexity": "O(n*m)",
+    "space_complexity": "O(n)",
+    "notes": "dp,2d"
+}
