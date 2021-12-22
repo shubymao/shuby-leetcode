@@ -1,0 +1,9 @@
+{
+    "name": "Reorder List",
+    "link": "https://leetcode.com/problems/reorder-list",
+    "author": "Shuby Mao",
+    "date": "2021-12-21T18:17:11.026987",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "notes": "linked-list"
+}
