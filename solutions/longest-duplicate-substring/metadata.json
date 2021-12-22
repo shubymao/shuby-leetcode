@@ -1,0 +1,9 @@
+{
+    "name": "Longest Duplicate Substring",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring",
+    "author": "Shuby Mao",
+    "date": "2021-12-22T11:06:02.768644",
+    "time_complexity": "O(nlogn)",
+    "space_complexity": "O(n)",
+    "notes": "robin-karp,binary-search"
+}
