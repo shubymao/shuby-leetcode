@@ -1,0 +1,9 @@
+{
+    "name": "Minimum Add To Make Parentheses Valid",
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "author": "Shuby Mao",
+    "date": "2021-12-22T19:00:55.235707",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "notes": "string"
+}
