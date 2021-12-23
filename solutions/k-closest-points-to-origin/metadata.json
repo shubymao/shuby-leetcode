@@ -1,0 +1,9 @@
+{
+    "name": "K Closest Points To Origin",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "author": "Shuby Mao",
+    "date": "2021-12-22T19:11:36.012721",
+    "time_complexity": "O(nlogn)",
+    "space_complexity": "O(k)",
+    "notes": "pq"
+}
