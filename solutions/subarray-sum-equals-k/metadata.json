@@ -1,0 +1,9 @@
+{
+    "name": "Subarray Sum Equals K",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "author": "Shuby Mao",
+    "date": "2021-12-22T18:28:37.763881",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(n)",
+    "notes": "dp"
+}
