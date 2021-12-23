@@ -1,0 +1,9 @@
+{
+    "name": "Course Schedule Ii",
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "author": "Shuby Mao",
+    "date": "2021-12-22T17:19:21.651006",
+    "time_complexity": "O(n+l)",
+    "space_complexity": "O(n+l)",
+    "notes": "dfs"
+}
