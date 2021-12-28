@@ -1,0 +1,9 @@
+{
+    "name": "Maximum Number Of Eaten Apples",
+    "link": "https://leetcode.com/problems/maximum-number-of-eaten-apples",
+    "author": "Shuby Mao",
+    "date": "2021-12-23T11:07:39.999057",
+    "time_complexity": "O(nlogn)",
+    "space_complexity": "O(n)",
+    "notes": "map,sorted"
+}

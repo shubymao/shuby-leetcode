@@ -1,0 +1,9 @@
+{
+    "name": "Count Special Quadruplets",
+    "link": "https://leetcode.com/problems/count-special-quadruplets",
+    "author": "Shuby Mao",
+    "date": "2021-12-28T12:15:10.781067",
+    "time_complexity": "O(n^2)",
+    "space_complexity": "O(n^2)",
+    "notes": "dp"
+}
